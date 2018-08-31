@@ -11,6 +11,7 @@ const IndexPage = () => (
       <li>My e-mail: ktlqai@gmail.com</li>
       <li>My Github id: ktlqai</li>
       <li>My Github repository for the hackathon: freecodecamp-jam-hackathon</li>
+      <li>My Netlify link: <a href="https://keen-wing-3f486f.netlify.com/">https://keen-wing-3f486f.netlify.com/</a></li>
     </ul>
     <Link to="/page-2/">Go to page 2</Link>
   </div>
